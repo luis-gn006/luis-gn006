@@ -8,7 +8,7 @@
 
 <h3 align="left">Puedes contactarme en:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/enrique-gonz111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdlangelesbazan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enrique-gonz111/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdlangelesbazan" height="30" width="40" /></a>
 </p>
 
 
@@ -24,3 +24,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="cloud" alt="cloud" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </p>
+
+<h3 align="center">🌟 Algunos de mis proyectos 🌟</h3>
+<p align="center">
+  <a href="https://github.com/luis-gn006/web_project_api_full" target="_blank">🚀 Web Project API Full</a><br>
+  <a href="https://github.com/luis-gn006/project-pokedex-frontend" target="_blank">🦖 Project Pokedex Frontend</a><br>
+  <a href="https://github.com/luis-gn006/product-list-with-cart-main" target="_blank">🛒 Product List with Cart</a><br>
+</p>
+
