@@ -3,7 +3,7 @@
 
 - 🤖 Graduado del bootcamp de **TripleTen** en desarrollo web a la vez que estudiando y desarrollándome por cuenta propia.
 
-- 🏍️ Todos mis proyectos están disponibles en:
+- 🏍️ Todos mis proyectos están disponibles en: <a href="https://luis-gn006.github.io/portfolio/" target="_blank">🌟</a>
 
 
 <h3 align="left">Puedes contactarme en:</h3>
